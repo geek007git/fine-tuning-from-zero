@@ -1,5 +1,7 @@
 # Course map: Concepts → Methods → Problems → Projects
 
+**Author: Shanmugapriyan S** · Begin with the [guided reading path](en/LEARNING_GUIDE.md) if you want a simple example connecting every chapter.
+
 ## Learner profile and outcomes
 
 Prerequisites for the full lab route: basic Python, reading CSV/JSON, and familiarity with using an AI model. The [student Python bridge](audiences/STUDENTS.md) helps beginners start. No calculus or GPU is required for the reading, exercises and standard-library audit. Model labs require a compatible Python environment, model downloads, and suitable CPU/GPU resources.

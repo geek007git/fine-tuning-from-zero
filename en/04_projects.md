@@ -1,5 +1,7 @@
 # Part 4 — Projects: build something another person can judge
 
+**Author: Shanmugapriyan S** · [Learning guide](LEARNING_GUIDE.md) · [Slower guided builds](../mastery/04_projects_worked.md)
+
 Every project uses the same sequence: **problem → dataset → split → baseline → adaptation → held-out evaluation → error analysis → reproducible delivery**. Put all metric values from an actual run in your report. Do not copy example numbers from the lessons.
 
 ## Project 1. Support-ticket router (guided, beginner)
@@ -21,6 +23,8 @@ Every project uses the same sequence: **problem → dataset → split → baseli
 
 **Stretch:** Replace toy data with consented multilingual support requests. Establish separate English, Hindi, Tamil, and code-switched test slices. Do not claim cross-language accuracy without those measured slices.
 
+**Connection to Project 2:** Project 1 selects a team. Project 2 asks an assistant to generate a structured answer and explain its choice, so we must also check JSON format and whether the explanation is supported.
+
 ## Project 2. Structured-response assistant (guided, intermediate)
 
 **User story:** Given a support ticket, produce compact JSON with `category` and `reason`. The output must be valid JSON, use an allowed category, and give a reason supported by the ticket.
@@ -38,6 +42,8 @@ Every project uses the same sequence: **problem → dataset → split → baseli
 **Acceptance:** The dataset format, base model, adapter, evaluation script, raw predictions, and failure log are available. A successful training run alone does not complete this project.
 
 **Stretch:** Try a new, disjoint set of paraphrases from humans. Compare LoRA against a model trained with full updates only if hardware and model size permit a fair comparison. QLoRA is an optional memory experiment, not an automatic accuracy upgrade.
+
+**Connection to Project 3:** You have practiced both choosing a label and producing an answer. The capstone takes the same honest workflow to a new domain where you must define the rules yourself.
 
 ## Project 3. Domain adaptation capstone (open-ended, engineer)
 

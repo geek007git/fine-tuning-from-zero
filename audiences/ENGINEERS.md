@@ -1,5 +1,7 @@
 # Engineer route: make a fine-tuning decision you can defend
 
+**Author: Shanmugapriyan S**
+
 Use the same **Concepts → Methods → Problems → Projects** sequence, but move quickly through familiar terminology. Apply every stage to a real, bounded task with authorized data.
 
 Use the [worked Methods](../mastery/02_methods_worked.md), [worked Problems](../mastery/03_problems_worked.md) and [worked Projects](../mastery/04_projects_worked.md) as review exercises. The [mastery pathway](../mastery/06_mastery_pathway.md) includes optional extensions after the core.

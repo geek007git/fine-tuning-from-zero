@@ -1,5 +1,7 @@
 # Practice workbook: 24 exercises with worked answers
 
+**Author: Shanmugapriyan S**
+
 Use this after each matching phase. Write your answer before opening the worked solution. A correct answer should explain *why* the choice follows from the evidence.
 
 ## Concepts: diagnose the task

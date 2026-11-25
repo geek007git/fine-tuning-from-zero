@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased: guided learning and authorship
+
+- Added a beginner reading guide following one support-ticket example through all four parts, with a chapter-by-chapter route and study routine.
+- Expanded core Concepts and Methods with slowly worked ticket examples; added explicit links between chapters in every core part and between projects.
+- Credited Shanmugapriyan S as the original author in the README, learning pages, course map and content/code licensing text.
+
 ## v1.0.0: first GitHub release (2026-11-26)
 
 ### Labs: verified end to end

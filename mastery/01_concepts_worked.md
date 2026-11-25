@@ -1,5 +1,7 @@
 # Concepts lab book: make the invisible parts visible
 
+**Author: Shanmugapriyan S**
+
 Read [Part 1](../en/01_concepts.md) first. This book slows down the most confusing ideas. For each lesson, follow **story → worked example → common mistake → explain it yourself**. Draw a diagram on paper whenever you cannot explain what goes into the model and what comes out.
 
 ## Lesson A. Define the job before the model

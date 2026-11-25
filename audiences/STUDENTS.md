@@ -1,5 +1,7 @@
 # Student route: learn without assuming a GPU
 
+**Author: Shanmugapriyan S**
+
 Follow the shared order: **Concepts → Methods → Problems → Projects**. This route is for first-time learners, including students who only know a little Python.
 
 For a short introduction, read the core chapters and workbook. For mastery, follow each phase with its [worked lab book and checkpoint](../mastery/06_mastery_pathway.md) before proceeding. Use [math without fear](../mastery/05_math_without_fear.md) whenever an equation gets in the way of the idea.

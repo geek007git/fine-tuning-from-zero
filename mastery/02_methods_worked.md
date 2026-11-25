@@ -1,5 +1,7 @@
 # Methods lab book: every training choice has a reason
 
+**Author: Shanmugapriyan S**
+
 Read [Part 2](../en/02_methods.md) after the [concepts lab book](01_concepts_worked.md). Here we turn vocabulary into a repeatable experiment. Always ask: **What gap did we measure? What method addresses it? What other explanation could produce the apparent gain?**
 
 ## Lesson A. Choose a method from the failure, not the model's size

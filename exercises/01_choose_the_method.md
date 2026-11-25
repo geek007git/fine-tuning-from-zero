@@ -1,5 +1,7 @@
 # Exercise 01 — Choose a sensible first method
 
+**Author: Shanmugapriyan S**
+
 For each case, choose **prompt or rules**, **retrieval/current context**, or **fine-tuning candidate**. Write one sentence explaining how you would evaluate the choice.
 
 1. A chatbot must quote today's refund policy from a company document that changes weekly.

@@ -2,6 +2,8 @@
 
 # Fine-Tuning from Zero
 
+**Written and authored by Shanmugapriyan S**
+
 **An open, honest, end-to-end course on fine-tuning language models: from "what is a weight?" to a reproducible, evaluated LoRA adapter.**
 
 [![Course checks](https://github.com/geek007git/fine-tuning-from-zero/actions/workflows/checks.yml/badge.svg)](https://github.com/geek007git/fine-tuning-from-zero/actions/workflows/checks.yml)
@@ -12,13 +14,15 @@
 
 **Concepts → Methods → Problems → Projects**
 
-[Start learning](en/00_start_here.md) · [Course map](COURSE_MAP.md) · [Labs](labs/README.md) · [Glossary](en/GLOSSARY.md) · [Workbook](en/05_workbook.md)
+[Start learning](en/00_start_here.md) · [How to study](en/LEARNING_GUIDE.md) · [Course map](COURSE_MAP.md) · [Labs](labs/README.md) · [Glossary](en/GLOSSARY.md) · [Workbook](en/05_workbook.md)
 
 </div>
 
 ---
 
 ## Why this course?
+
+**Start with the [guided reading path](en/LEARNING_GUIDE.md)** if you are new. It uses one support-ticket example from the first definition through training, debugging and projects; each chapter points to the next. Read the plain explanation first, work the example, check where it fails, then teach the idea back in your own words. The [worked guides](mastery/06_mastery_pathway.md) slow down the parts that need more practice.
 
 Most fine-tuning tutorials end when `trainer.train()` finishes. This one doesn't, because a finished training run tells you nothing about whether the model is any better. Here you learn to:
 

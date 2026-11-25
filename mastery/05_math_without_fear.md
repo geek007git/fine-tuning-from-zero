@@ -1,5 +1,7 @@
 # The small amount of math that makes fine-tuning less mysterious
 
+**Author: Shanmugapriyan S**
+
 This is optional on the first reading and useful before an engineer's first training run. Every numerical example is invented so that you can calculate it by hand. It does not describe measured performance of the course's models.
 
 ## 1. A prediction is a score before it is a label

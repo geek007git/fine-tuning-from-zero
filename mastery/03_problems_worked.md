@@ -1,5 +1,7 @@
 # Problems lab book: debug the claim before changing the model
 
+**Author: Shanmugapriyan S**
+
 Read [Part 3](../en/03_problems.md) first. Every incident below follows **symptom → competing explanations → evidence → smallest safe experiment → interpretation**. A single bad metric rarely tells you what caused it.
 
 ## Problem A. Suspiciously high accuracy

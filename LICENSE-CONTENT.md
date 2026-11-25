@@ -13,8 +13,12 @@ changes were made.
 
 Suggested attribution:
 
-> "Fine-Tuning from Zero" by the Fine-Tuning from Zero contributors, licensed
+> "Fine-Tuning from Zero" by Shanmugapriyan S, licensed
 > under CC BY 4.0.
+
+Original course author: **Shanmugapriyan S**. Contributors to later revisions
+should be credited for their own contributions in the change history. External
+models, papers, software and datasets remain the work of their own authors.
 
 **Source code** (`*.py` files and the notebook in `labs/`) is licensed under the
 MIT License — see [LICENSE](LICENSE).

@@ -1,5 +1,7 @@
 # Lesson 0 — Start here: what is fine-tuning?
 
+**Author: Shanmugapriyan S** · [How to study this course](LEARNING_GUIDE.md)
+
 **Goal:** Understand what changes in a model and when training is a useful choice. Time: about 20–30 minutes. No installation required.
 
 ## Start with a problem
@@ -42,4 +44,6 @@ Try the simplest measurable solution first. A clear prompt, a keyword rule, or s
 
 **Answers:** (1) The request is the input and `account` is the target. (2) To measure generalization rather than memorization. (3) No; provide current policy information at inference time and evaluate that setup.
 
-Next: try [Exercise 01 — choose a sensible first method](../exercises/01_choose_the_method.md), then start [Part 1 — Concepts](01_concepts.md).
+**Connection:** We now know what fine-tuning changes. The next part explains how a request becomes input, why answers need labels, and how to check learning without accidentally showing the model the exam.
+
+Next: try [Exercise 01 - choose a sensible first method](../exercises/01_choose_the_method.md), then start [Part 1 - Concepts](01_concepts.md). For a slower route, keep the [learning guide](LEARNING_GUIDE.md) open.

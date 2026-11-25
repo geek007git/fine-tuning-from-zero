@@ -1,5 +1,7 @@
 # Instructor route: teach, adapt and grade the course
 
+**Author: Shanmugapriyan S**
+
 The course is a reusable teaching core for college professors, teaching assistants and workplace trainers. Keep the sequence **Concepts → Methods → Problems → Projects** even when the calendar changes. Each chapter's story, failure case and teach-back can be taught as a short demonstration, discussion and quick check.
 
 Use the [worked lab books](../mastery/06_mastery_pathway.md) for slower instruction and the four-level mastery assessment (recall, application, diagnosis, transfer). This prevents a short introductory run from being mistaken for demonstrated mastery.

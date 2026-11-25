@@ -1,5 +1,7 @@
 # Contributing
 
+Original course author: **Shanmugapriyan S**. Please keep the author attribution when adapting the teaching material and credit specific contributors for their changes.
+
 Thank you for helping make this course clearer and more correct. Corrections from beginners ("I got stuck here") are as valuable as corrections from experts.
 
 ## Ground rules
@@ -9,6 +11,7 @@ Thank you for helping make this course clearer and more correct. Corrections fro
 3. **Never invent numbers.** Any metric, runtime or memory figure must come from a run you actually did. State the hardware, package versions and date next to it. Illustrative numbers must be labelled as illustrative.
 4. **English is the reference version.** Tamil and Hindi translations follow the reviewed English text. Keep code identifiers, label names and metric definitions identical across languages.
 5. **Cite primary sources** (official documentation, papers, model cards) for API or method claims.
+6. **Keep the learning route clear:** introduce a plain explanation and a useful example before unfamiliar terminology, link the chapter to the next idea, and choose a direct technical explanation whenever an analogy would mislead.
 
 ## Before opening a pull request
 

@@ -1,5 +1,7 @@
 # Mastery pathway: practice until you can explain and transfer
 
+**Author: Shanmugapriyan S**
+
 This pathway complements the four core parts. **Mastery is demonstrated through a new problem**, not the number of pages read or a model that happened to train. Work through each stage in order. Use a different small example for each teach-back, then return to the course's support-ticket example to verify you can transfer the idea.
 
 ## Repeat this simple teaching loop for every lesson

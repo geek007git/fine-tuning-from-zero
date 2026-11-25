@@ -1,5 +1,7 @@
 # Plain-English glossary
 
+**Author: Shanmugapriyan S**
+
 Use a term only when you can also explain what changes in the support-ticket example.
 
 | Term | Simple meaning | Ticket example |

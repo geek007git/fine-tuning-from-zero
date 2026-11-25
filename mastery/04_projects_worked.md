@@ -1,5 +1,7 @@
 # Projects lab book: build, measure, explain and hand over
 
+**Author: Shanmugapriyan S**
+
 Read [Part 4](../en/04_projects.md) first. These projects use the same workflow but increase independence. You can complete the first stage without a GPU. Do not claim a training result you did not observe. Fill the [dataset card](../templates/DATASET_CARD.md) and [model card](../templates/MODEL_CARD.md) alongside your work rather than after you forget what changed.
 
 ## Project 0. Paper-and-Python diagnostic (no model download)
