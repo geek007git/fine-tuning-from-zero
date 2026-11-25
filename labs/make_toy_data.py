@@ -67,7 +67,8 @@ def main():
             rows.append({"id": f"{label[:3]}-{index + 1:02d}",
                          "group": f"fictional-{label}-{index + 1:02d}",
                          "split": split, "text": ticket, "label": label})
-    with path.open("w", encoding="utf-8") as stream:
+    # Keep the tracked fixture byte-for-byte identical on Windows and Linux.
+    with path.open("w", encoding="utf-8", newline="\n") as stream:
         for row in rows:
             stream.write(json.dumps(row, ensure_ascii=False) + "\n")
     print(f"Wrote {len(rows)} fictional tickets to {path}")
