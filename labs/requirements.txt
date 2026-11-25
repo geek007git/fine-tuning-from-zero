@@ -1,0 +1,9 @@
+# Compatible ranges for the model labs (Lab 1 needs no packages).
+# Exact versions used for the verified run: requirements-lock.txt
+# GPU users: install PyTorch first from https://pytorch.org/get-started/locally/
+torch>=2.4
+transformers>=5.0,<6
+datasets>=3.0
+accelerate>=1.0
+peft>=0.17
+trl>=1.0,<2

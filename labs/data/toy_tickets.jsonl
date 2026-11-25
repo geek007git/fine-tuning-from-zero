@@ -1,0 +1,45 @@
+{"id": "bil-01", "group": "fictional-billing-01", "split": "train", "text": "My invoice shows a charge twice for the same month", "label": "billing"}
+{"id": "bil-02", "group": "fictional-billing-02", "split": "train", "text": "Please explain the unexpected subscription fee on my statement", "label": "billing"}
+{"id": "bil-03", "group": "fictional-billing-03", "split": "train", "text": "The receipt has the wrong tax amount", "label": "billing"}
+{"id": "bil-04", "group": "fictional-billing-04", "split": "train", "text": "I need a copy of the payment invoice for last week", "label": "billing"}
+{"id": "bil-05", "group": "fictional-billing-05", "split": "train", "text": "The refund for my duplicate card payment is missing", "label": "billing"}
+{"id": "bil-06", "group": "fictional-billing-06", "split": "validation", "text": "Why did my annual plan renew at a higher price", "label": "billing"}
+{"id": "bil-07", "group": "fictional-billing-07", "split": "validation", "text": "My bank shows two transactions for one order", "label": "billing"}
+{"id": "bil-08", "group": "fictional-billing-08", "split": "validation", "text": "Where can I download the receipt for my purchase", "label": "billing"}
+{"id": "bil-09", "group": "fictional-billing-09", "split": "validation", "text": "The discount was not applied to my final bill", "label": "billing"}
+{"id": "bil-10", "group": "fictional-billing-10", "split": "validation", "text": "I cancelled but a new charge appeared on my card", "label": "billing"}
+{"id": "bil-11", "group": "fictional-billing-11", "split": "test", "text": "The renewal amount on my account seems incorrect", "label": "billing"}
+{"id": "bil-12", "group": "fictional-billing-12", "split": "test", "text": "Please correct the billing address printed on the invoice", "label": "billing"}
+{"id": "bil-13", "group": "fictional-billing-13", "split": "test", "text": "The payment succeeded but the invoice still says unpaid", "label": "billing"}
+{"id": "bil-14", "group": "fictional-billing-14", "split": "test", "text": "Can you explain this extra processing fee", "label": "billing"}
+{"id": "bil-15", "group": "fictional-billing-15", "split": "test", "text": "I want to know when my refund will appear", "label": "billing"}
+{"id": "tec-01", "group": "fictional-technical-01", "split": "train", "text": "The mobile app crashes whenever I open the camera", "label": "technical"}
+{"id": "tec-02", "group": "fictional-technical-02", "split": "train", "text": "Uploads freeze at ninety percent on my laptop", "label": "technical"}
+{"id": "tec-03", "group": "fictional-technical-03", "split": "train", "text": "The screen stays blank after the latest update", "label": "technical"}
+{"id": "tec-04", "group": "fictional-technical-04", "split": "train", "text": "Video playback stops after a few seconds", "label": "technical"}
+{"id": "tec-05", "group": "fictional-technical-05", "split": "train", "text": "The export button produces an empty file", "label": "technical"}
+{"id": "tec-06", "group": "fictional-technical-06", "split": "validation", "text": "My browser shows an error when I save changes", "label": "technical"}
+{"id": "tec-07", "group": "fictional-technical-07", "split": "validation", "text": "The Android app closes when I tap notifications", "label": "technical"}
+{"id": "tec-08", "group": "fictional-technical-08", "split": "validation", "text": "Images are not loading on the dashboard", "label": "technical"}
+{"id": "tec-09", "group": "fictional-technical-09", "split": "validation", "text": "The download link fails with a server error", "label": "technical"}
+{"id": "tec-10", "group": "fictional-technical-10", "split": "validation", "text": "My microphone is not detected during a call", "label": "technical"}
+{"id": "tec-11", "group": "fictional-technical-11", "split": "test", "text": "The page becomes unresponsive after selecting a filter", "label": "technical"}
+{"id": "tec-12", "group": "fictional-technical-12", "split": "test", "text": "The filter never applies when I select it", "label": "technical"}
+{"id": "tec-13", "group": "fictional-technical-13", "split": "test", "text": "Search results disappear when I scroll", "label": "technical"}
+{"id": "tec-14", "group": "fictional-technical-14", "split": "test", "text": "The desktop program refuses to open after installation", "label": "technical"}
+{"id": "tec-15", "group": "fictional-technical-15", "split": "test", "text": "The chart does not refresh when I change the date", "label": "technical"}
+{"id": "acc-01", "group": "fictional-account-01", "split": "train", "text": "I cannot sign in after resetting my password", "label": "account"}
+{"id": "acc-02", "group": "fictional-account-02", "split": "train", "text": "Please update the email address on my profile", "label": "account"}
+{"id": "acc-03", "group": "fictional-account-03", "split": "train", "text": "The verification code never arrives for my login", "label": "account"}
+{"id": "acc-04", "group": "fictional-account-04", "split": "train", "text": "How do I enable two factor authentication", "label": "account"}
+{"id": "acc-05", "group": "fictional-account-05", "split": "train", "text": "I lost access to the phone linked to my account", "label": "account"}
+{"id": "acc-06", "group": "fictional-account-06", "split": "validation", "text": "Please change the display name in my profile", "label": "account"}
+{"id": "acc-07", "group": "fictional-account-07", "split": "validation", "text": "My account was locked after several sign in attempts", "label": "account"}
+{"id": "acc-08", "group": "fictional-account-08", "split": "validation", "text": "I need to remove an old device from my account", "label": "account"}
+{"id": "acc-09", "group": "fictional-account-09", "split": "validation", "text": "The password reset link has expired", "label": "account"}
+{"id": "acc-10", "group": "fictional-account-10", "split": "validation", "text": "I want to close my account and remove my profile", "label": "account"}
+{"id": "acc-11", "group": "fictional-account-11", "split": "test", "text": "My details appear under someone else's name", "label": "account"}
+{"id": "acc-12", "group": "fictional-account-12", "split": "test", "text": "The invitation does not give my teammate access", "label": "account"}
+{"id": "acc-13", "group": "fictional-account-13", "split": "test", "text": "Please help me recover my username", "label": "account"}
+{"id": "acc-14", "group": "fictional-account-14", "split": "test", "text": "I cannot change my account recovery email", "label": "account"}
+{"id": "acc-15", "group": "fictional-account-15", "split": "test", "text": "My security settings do not save after login", "label": "account"}

@@ -1,0 +1,28 @@
+name: Course checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  no-dependency-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Regenerate toy data and confirm it is unchanged
+        working-directory: labs
+        run: |
+          python make_toy_data.py
+          git diff --exit-code data/toy_tickets.jsonl
+      - name: Check Markdown links and data audit
+        working-directory: labs
+        run: python check_course.py
+      - name: Run keyword baseline
+        working-directory: labs
+        run: python audit_and_baseline.py
+      - name: Syntax-check every lab script
+        working-directory: labs
+        run: python -m py_compile *.py
